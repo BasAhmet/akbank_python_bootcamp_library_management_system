@@ -10,8 +10,8 @@ if __name__ == '__main__':
 Kod bloğu ile uygulama başlatılıyor.
 
 Oluşturulan lib nesnesi ile 
-1 - books.txt dosyası oluşuyor
-2 - Library() class ındaki fonksiyonlar çağrılıyor
+1. books.txt dosyası oluşuyor
+2. Library() class ındaki fonksiyonlar çağrılıyor
 
 menu nesnesi Menu() class ının çaışması için
 
