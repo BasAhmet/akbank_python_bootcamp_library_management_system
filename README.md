@@ -2,10 +2,11 @@
 Akbank Python Bootcamp kapsamı içinde yapmış olduğum kütüphane yönetim sistemi
 
 # Uygulamanın çalışması
+'''
 if __name__ == '__main__':
     lib = Library()
     menu = Menu()
-    
+'''    
 Kod bloğu ile uygulama başlatılıyor.
 
 Oluşturulan lib nesnesi ile 
