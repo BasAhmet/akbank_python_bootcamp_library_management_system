@@ -2,8 +2,8 @@
 Akbank Python Bootcamp kapsamı içinde yapmış olduğum kütüphane yönetim sistemi
 
 # Versiyon
--**_library_management_system.py        versiyonunda Türkçe menu var_**
--**_library_management_system_v2.py     versiyonunda Türkçe ve İngilizce menü kondu_**
+- **_library_management_system.py        versiyonunda Türkçe menu var_**
+- **_library_management_system_v2.py     versiyonunda Türkçe ve İngilizce menü kondu_**
 
 # Uygulamanın çalışması
 ```
