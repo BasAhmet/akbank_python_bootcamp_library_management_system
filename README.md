@@ -30,6 +30,15 @@ q) Çıkış
 ```
 Kullanıcı buradan yapmak istediği işlemi seçerek uygulamayı kullanmakta.
 
+# Versiyon 2 karşılama ekranı
+```python
+*** Dil Menüsü / Language Menu ***
+Türkçe menü için 't'
+For English menu press 'e'
+**********************************
+```
+Kullanıcı bu menüden istediği dilde devam eder
+
 
 
 
