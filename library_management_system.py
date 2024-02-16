@@ -1,4 +1,4 @@
-import time
+import time # Terminalden takip etmek için time.sleep kullanılarak bazı işlemler yavaşlatıldı
 class Library:
     
     def __init__(self):
