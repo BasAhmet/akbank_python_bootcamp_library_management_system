@@ -172,8 +172,11 @@ class Menu():
         ,"y","n"]
             while True:
                 lang_choice = input("""
+    *** Dil Menüsü / Language Menu ***
     Türkçe menü için 't'
-    For English menu press 'e' : """)
+    For English menu press 'e'
+    **********************************
+    """)
             
                 if lang_choice == "t":
                     self.message = t_mesaj
