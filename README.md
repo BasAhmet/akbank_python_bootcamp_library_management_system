@@ -20,12 +20,22 @@ Oluşturulan "lib" nesnesi ile
 Oluşturulan "menu" nesnesi "Menu()" class ının çaışması için
 
 # Kullanıcı karşılama ekranı
+Türkçe Menü
 ```python
 ****** Menü *****
 1) Kitap Listesi
 2) Kitap Ekleme
 3) Kitap Silme
 q) Çıkış
+*****************
+```
+İngilizce Menü
+```python
+****** Menu *****
+1) Book List
+2) Adding Books
+3) Deleting a Book
+q) Exit
 *****************
 ```
 Kullanıcı buradan yapmak istediği işlemi seçerek uygulamayı kullanmakta.
